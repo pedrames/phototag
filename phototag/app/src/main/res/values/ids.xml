@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <item name="thumbnailImageView" type="id" />
+    <item name="captureButton" type="id" />
+    <item name="saveLoadButton" type="id" />
+</resources>
